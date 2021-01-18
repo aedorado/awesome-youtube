@@ -4,7 +4,7 @@ Hello friends, this is an awesome list of all the aweomse youtube channels. So i
 
 ## Contents
 
-- [Coding Tutorials](#tutorials)
+- [Coding Tutorials](#coding-tutorials)
 - [Investmenting](#investmenting)
 - [Interview Prepration](#interview-prepration)
 - [Data Science](#data-science)
